@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1639997934 source:c:\users\hog4m\desktop\codeblocks\sortings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1640674280 source:c:\users\hog4m\desktop\sortings\my_bubble_sort.c
+
+1640516552 source:c:\users\hog4m\desktop\sortings\my_selection_sort.c
+
+1640691953 source:c:\users\hog4m\desktop\sortings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1640369037 source:c:\users\hog4m\desktop\sortings\my_shell_sort.c
+
+1640506771 source:c:\users\hog4m\desktop\sortings\my_radix_sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1640515950 source:c:\users\hog4m\desktop\sortings\my_counting_sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1640510854 source:c:\users\hog4m\desktop\sortings\my_cocktail_sort.c
+
+1640527734 source:c:\users\hog4m\desktop\sortings\my_merge_sort.c
+
+1640688175 source:c:\users\hog4m\desktop\sortings\my_quick_sort.c
+
